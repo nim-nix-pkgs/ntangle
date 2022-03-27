@@ -11,6 +11,7 @@
   inputs.src-ntangle-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-ntangle-v0_1_0.owner = "OrgTangle";
   inputs.src-ntangle-v0_1_0.repo  = "ntangle";
+  inputs.src-ntangle-v0_1_0.dir   = "";
   inputs.src-ntangle-v0_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

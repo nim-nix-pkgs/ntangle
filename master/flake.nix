@@ -11,6 +11,7 @@
   inputs.src-ntangle-master.ref   = "refs/heads/master";
   inputs.src-ntangle-master.owner = "OrgTangle";
   inputs.src-ntangle-master.repo  = "ntangle";
+  inputs.src-ntangle-master.dir   = "";
   inputs.src-ntangle-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
