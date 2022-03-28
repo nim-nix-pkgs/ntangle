@@ -11,7 +11,6 @@
   inputs.src-ntangle-v0_6_4.ref   = "refs/tags/v0.6.4";
   inputs.src-ntangle-v0_6_4.owner = "OrgTangle";
   inputs.src-ntangle-v0_6_4.repo  = "ntangle";
-  inputs.src-ntangle-v0_6_4.dir   = "";
   inputs.src-ntangle-v0_6_4.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
